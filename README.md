@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=DC1A1ADB&width=435&lines=Hi+!+I'm+Rey+Jhon+Capito+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=DC1A1ADB&width=435&lines=Hi+!+I'm+Rey+Jhon+Capito+Full+Stackk+Developer" alt="Typing SVG" /></a>
