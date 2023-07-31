@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <h3 align="center">👨‍💻 College Student</h3>
+</p>
 
 <!--
 **RenJhon/RenJhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
